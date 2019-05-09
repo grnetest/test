@@ -1,0 +1,117 @@
+<!DOCTYPE contLem SYSTEM "../../hulpdocumenten/dtd/lemma.dtd">
+<?xml-stylesheet type="text/xsl" href="../../hulpdocumenten/xslt/lemma-html.xslt"?>
+<?xml-stylesheet type="text/css" href="../../hulpdocumenten/css/lemma-blok.css"?>
+<contLem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../hulpdocumenten/xsd/lemma.xsd">
+  <metadata>
+    <naam id="">βρύω-1</naam>
+    <volgN>1</volgN>
+    <indexI>
+      <item>βρύω</item>
+    </indexI>
+    <type>lem</type>
+    <alfaSl>βρύω-1</alfaSl>
+    <woordS woordS="verb."/>
+    <status status="schoolreductie t1 gecontroleerd"/>
+    <migratedFrom>Migrated on 2014-12-01 14:55 from file 'BETA.1.18 v8.1.xml'</migratedFrom>
+    <migrateWarnings/>
+    <commentaar/>
+    <label/>
+  </metadata>
+  <lem>
+    <vorm>
+      <hoofdW>βρύω</hoofdW>
+    </vorm>
+    <bet>
+      <niv123>
+        <vertM>vol zijn met, bol staan van, </vertM>
+        <gebrW>eigenl. van planten met bloesem of gebladerte; </gebrW>
+        <gebrW>met dat.: </gebrW>
+        <cit>
+          <citG>βρύει ἄνθεϊ λευκῷ </citG>
+          <citNV>hij <toel>(de tak)</toel> is vol met witte bloesems </citNV>
+          <verw>
+            <aut>Il. </aut>
+            <plaats>17.56; </plaats>
+          </verw>
+        </cit>
+        <cit remove_this="1">
+          <citG>ταῖς κόμαις εὐθαλέσιν … βρύοντα </citG>
+          <citNV>vol met weelderig gebladerte </citNV>
+          <verw>
+            <aut>[Luc.] </aut>
+            <plaats>49.12; </plaats>
+          </verw>
+        </cit>
+        <gebrW>ook abs.: </gebrW>
+        <cit>
+          <citG>βρύων θαλλός </citG>
+          <citNV>een weelderig bloeiende tak </citNV>
+          <verw>
+            <aut>Soph. </aut>
+            <werk>El. </werk>
+            <plaats>422; </plaats>
+          </verw>
+        </cit>
+        <gebrW remove_this="2">van andere zaken: </gebrW>
+        <cit remove_this="1">
+          <citG>βρύει ἱερὰ βουθύτοις ἑορταῖς </citG>
+          <citNV>de tempels zijn vol met feestelijke runderoffers </citNV>
+          <verw>
+            <aut>Bacchyl. </aut>
+            <plaats>3.15; </plaats>
+          </verw>
+        </cit>
+        <gebrW remove_this="2">overdr.: </gebrW>
+        <cit remove_this="1">
+          <citG>ἀγαθοῖσι β. </citG>
+          <citNV>een overvloed aan zegeningen hebben </citNV>
+          <verw>
+            <aut>Aeschl. </aut>
+            <werk>Suppl. </werk>
+            <plaats>966; </plaats>
+          </verw>
+        </cit>
+        <cit remove_this="1">
+          <citG>θράσει β. </citG>
+          <citNV>vol onverschrokkenheid zijn </citNV>
+          <verw>
+            <aut>Aeschl. </aut>
+            <werk>Ag. </werk>
+            <plaats>169; </plaats>
+          </verw>
+        </cit>
+        <gebrW keep_this="4">met gen.: </gebrW>
+        <cit remove_this="1">
+          <citG>χῶρος βρύων δάφνης, ἐλάας, ἀμπέλου </citG>
+          <citNV>een gebied vol met laurierbomen, olijfbomen en wijnstokken </citNV>
+          <verw>
+            <aut>Soph. </aut>
+            <werk>OC </werk>
+            <plaats>16; </plaats>
+          </verw>
+        </cit>
+        <gebrW remove_this="2">overdr.: </gebrW>
+        <cit remove_this="1">
+          <citG>νόσου β. </citG>
+          <citNV>een overvloed aan ellende hebben </citNV>
+          <verw>
+            <aut>Aeschl. </aut>
+            <werk>Ch. </werk>
+            <plaats>69.</plaats>
+          </verw>
+        </cit>
+      </niv123>
+      <niv123>
+        <gebrW>trans., van een bron </gebrW>
+        <vertM>doen opwellen </vertM>
+        <cit remove_this="1">
+          <verw>
+            <aut>NT </aut>
+            <werk>Iac. </werk>
+            <plaats>3.11.</plaats>
+          </verw>
+        </cit>
+      </niv123>
+    </bet>
+  </lem>
+</contLem>

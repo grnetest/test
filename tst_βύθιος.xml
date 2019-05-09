@@ -1,0 +1,41 @@
+<!DOCTYPE contLem SYSTEM "../../hulpdocumenten/dtd/lemma.dtd">
+<?xml-stylesheet type="text/xsl" href="../../hulpdocumenten/xslt/lemma-html.xslt"?>
+<?xml-stylesheet type="text/css" href="../../hulpdocumenten/css/lemma-blok.css"?>
+<contLem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../hulpdocumenten/xsd/lemma.xsd">
+  <metadata>
+    <naam id="">βύθιος-1</naam>
+    <volgN>1</volgN>
+    <indexI>
+      <item>βύθιος</item>
+    </indexI>
+    <type>lem</type>
+    <alfaSl>βύθιος-1</alfaSl>
+    <woordS woordS="adj."/>
+    <status status="schoolreductie t1 gecontroleerd"/>
+    <migratedFrom>Migrated on 2014-12-01 14:55 from file 'BETA.1.18 v8.1.xml'</migratedFrom>
+    <migrateWarnings>Process::Meta<br/>
+<span class="space"/><span class="space"/>Couldn't figure out part of speech (woordsoort).</migrateWarnings>
+    <commentaar/>
+    <label/>
+  </metadata>
+  <lem>
+    <vorm>
+      <hoofdW>βύθιος -α -ον, <i>f. ook</i> -ος </hoofdW>
+      <etym>[<link target="">βυθός</link>] </etym>
+    </vorm>
+    <bet>
+      <vertM>diep; </vertM>
+      <gebrW remove_this="2">pred. </gebrW>
+      <cit remove_this="1">
+        <citG>βύθιος ὑποδὺς εἰς τὴν θάλατταν </citG>
+        <citNV>na diep de zee in te duiken </citNV>
+        <verw>
+          <aut>Luc. </aut>
+          <plaats>70.71; </plaats>
+        </verw>
+      </cit>
+      <gebrW>van geluid </gebrW>
+      <vertM>diep, laag.</vertM>
+    </bet>
+  </lem>
+</contLem>

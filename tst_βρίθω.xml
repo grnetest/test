@@ -1,0 +1,176 @@
+<!DOCTYPE contLem SYSTEM "../../hulpdocumenten/dtd/lemma.dtd">
+<?xml-stylesheet type="text/xsl" href="../../hulpdocumenten/xslt/lemma-html.xslt"?>
+<?xml-stylesheet type="text/css" href="../../hulpdocumenten/css/lemma-blok.css"?>
+<contLem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../hulpdocumenten/xsd/lemma.xsd">
+  <metadata>
+    <naam id="">βρίθω-1</naam>
+    <volgN>1</volgN>
+    <indexI>
+      <item>βρίθω</item>
+    </indexI>
+    <type>lem</type>
+    <alfaSl>βρίθω-1</alfaSl>
+    <woordS woordS="verb."/>
+    <status status="schoolreductie t1 gecontroleerd"/>
+    <migratedFrom>Migrated on 2014-12-01 14:55 from file 'BETA.1.18 v8.1.xml'</migratedFrom>
+    <migrateWarnings>Element::WerkV<br/>
+<span class="space"/><span class="space"/>1<br/>
+Process::Bet<br/>
+<span class="space"/><span class="space"/>Piece didn't match GebrW or Cit rules, giving up on it. ^) $ <br/>
+Process::Bet<br/>
+<span class="space"/><span class="space"/>Piece didn't match GebrW or Cit rules, giving up on it. ^iets met iets$ </migrateWarnings>
+    <commentaar/>
+    <label/>
+  </metadata>
+  <lem>
+    <vorm>
+      <hoofdW>βρίθω </hoofdW>
+      <etym>[βρι- ‘zwaar’, ‘krachtig’] </etym>
+      <morfI>poët. imperf. <r>βρῖθον</r>; <b>aor. </b><r>ἔβρισα</r>, poët. <r>βρῖσα</r>; <b>perf. </b><r>βέβριθα</r>, ep. plqperf. 3 sing. <r>βεβρίθει</r>; <b>fut.</b> <r>βρίσω</r>, ep. inf. <r>βρίσεμεν</r></morfI>
+    </vorm>
+    <bet>
+      <niv123>
+        <gebrW>meestal intrans., act. en med.-pass. met dezelfde bet., perf. met praes. bet. </gebrW>
+        <vertM>zwaar zijn</vertM>
+        <nivABC>
+          <gebrW>van zaken </gebrW>
+          <vertM>zwaar zijn: </vertM>
+          <cit remove_this="1">
+            <citG>ἐκτελέα βρίθειν Δημήτερος ἱερὸν ἀκτήν </citG>
+            <citNV>dat het heilige koren van Demeter wanner het rijp is zwaar mag zijn </citNV>
+            <verw>
+              <aut>Hes. </aut>
+              <werk>Op. </werk>
+              <plaats>466; </plaats>
+            </verw>
+          </cit>
+          <cit>
+            <citG>ὑπὸ λαίλαπι βέβριθε χθών </citG>
+            <citNV>de grond is zwaar <toel>(van water)</toel> door een storm </citNV>
+            <verw>
+              <aut>Il. </aut>
+              <plaats>16.384; </plaats>
+            </verw>
+          </cit>
+          <gebrW>overdr. </gebrW>
+          <cit>
+            <citG>ἔρις βεβριθυῖα </citG>
+            <citNV>een zware ruzie </citNV>
+            <verw>
+              <aut>Il. </aut>
+              <plaats>21.385; </plaats>
+            </verw>
+          </cit>
+          <gebrW>met aanduiding van richting </gebrW>
+          <vertM>doorslaan: </vertM>
+          <cit remove_this="1">
+            <citG>πᾷ τύχα βρίσει </citG>
+            <citNV>in welke richting het lot zal doorslaan </citNV>
+            <verw>
+              <aut>Bacchyl. </aut>
+              <plaats>10.47; </plaats>
+            </verw>
+          </cit>
+          <gebrW>met dat., zelden met gen. </gebrW>
+          <vertM>beladen zijn met, zwaar zijn van: </vertM>
+          <cit>
+            <citG>σταφυλῇσι μέγα βρίθουσαν ἀλωήν </citG>
+            <citNV>een wijngaard, zwaar beladen met druiven </citNV>
+            <verw>
+              <aut>Il. </aut>
+              <plaats>18.561; </plaats>
+            </verw>
+          </cit>
+          <cit>
+            <citG>τράπεζαι σίτου καὶ κρειῶν ἠδ’ οἴνου βεβρίθασιν </citG>
+            <citNV>de tafels zijn volgeladen met brood en vlees en wijn </citNV>
+            <verw>
+              <aut>Od. </aut>
+              <plaats>15.334; </plaats>
+            </verw>
+          </cit>
+          <gebrW>overdr. </gebrW>
+          <cit>
+            <citG>ὄλβῳ β. </citG>
+            <citNV>overladen zijn met rijkdom </citNV>
+            <verw>
+              <aut>Eur. </aut>
+              <werk>Tr. </werk>
+              <plaats>216.</plaats>
+            </verw>
+          </cit>
+        </nivABC>
+        <nivABC>
+          <gebrW>van personen </gebrW>
+          <vertM>zware druk uitoefenen <toel>(in de strijd)</toel>: </vertM>
+          <cit>
+            <citG>οἵ … ἰθὺς Δαναῶν βρίσαντες ἔβησαν </citG>
+            <citNV>ze gingen met hun hele gewicht recht op de Danaërs af </citNV>
+            <verw>
+              <aut>Il. </aut>
+              <plaats>17.233; </plaats>
+            </verw>
+          </cit>
+          <gebrW>overdr. </gebrW>
+          <vertM>gewichtig, aanzienlijk zijn </vertM>
+          <cit remove_this="1">
+            <verw>
+              <aut>Pind.; </aut>
+            </verw>
+          </cit>
+          <gebrW>met aanduiding van richting </gebrW>
+          <vertM>zich <toel>(‘zijn gewicht’)</toel> concentreren: </vertM>
+          <cit remove_this="1">
+            <citG>οἱ … ἱππεῖς ἅπαντες ἐπὶ τὸ ἀριστερὸν ἔβρισαν </citG>
+            <citNV>alle ruiters hadden zich op de linkerflank geconcentreerd </citNV>
+            <verw>
+              <aut>Plut. </aut>
+              <werk>Caes. </werk>
+              <plaats>44.5; </plaats>
+            </verw>
+          </cit>
+          <vertM>het zwaarst wegen, het meeste gewicht in de schaal leggen, de overhand hebben, machtig zijn: </vertM>
+          <cit>
+            <citG>ὅς κέ σ’ ἐέδνοισι βρίσας οἶκόνδ’ ἀγάγηται </citG>
+            <citNV>die het meeste gewicht in de schaal legt in bruidsgeschenken <toel>(d.w.z. meer geeft dan de concurrentie)</toel> en u mee naar huis neemt </citNV>
+            <verw>
+              <aut>Od. </aut>
+              <plaats>6.159; </plaats>
+            </verw>
+          </cit>
+          <cit>
+            <citG>εἴ τινος πλέον ἢ χειρὶ βρίθεις ἢ μακροῦ πλούτου βάθει </citG>
+            <citNV>als je meer gewicht in de schaal legt dan een ander ofwel met je hand <toel>(d.w.z. kracht)</toel> ofwel met onpeilbaar grote rijkdom </citNV>
+            <verw>
+              <aut>Soph. </aut>
+              <werk>Ai. </werk>
+              <plaats>130; </plaats>
+            </verw>
+          </cit>
+          <gebrW>met gen. </gebrW>
+          <vertM>beladen zijn met </vertM>
+          <cit remove_this="1">
+            <verw>
+              <aut>AP </aut>
+              <plaats>5.194.4.</plaats>
+            </verw>
+          </cit>
+        </nivABC>
+      </niv123>
+      <niv123>
+        <gebrW>zelden met acc. (causat.) </gebrW>
+        <vertM>zwaar maken, beladen, </vertM>
+        <gebrW keep_this="4">met acc. en dat. <r>iets met iets</r>: </gebrW>
+        <cit remove_this="1">
+          <citG>τάλαντα βρίσας οὐκ ἰσορρόπωι τύχηι </citG>
+          <citNV>door de balans te beladen met een onevenwichtig lot </citNV>
+          <verw>
+            <aut>Aeschl. </aut>
+            <werk>Pers. </werk>
+            <plaats>346.</plaats>
+          </verw>
+        </cit>
+      </niv123>
+    </bet>
+  </lem>
+</contLem>

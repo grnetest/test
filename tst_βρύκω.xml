@@ -1,0 +1,58 @@
+<!DOCTYPE contLem SYSTEM "../../hulpdocumenten/dtd/lemma.dtd">
+<?xml-stylesheet type="text/xsl" href="../../hulpdocumenten/xslt/lemma-html.xslt"?>
+<?xml-stylesheet type="text/css" href="../../hulpdocumenten/css/lemma-blok.css"?>
+<contLem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../hulpdocumenten/xsd/lemma.xsd">
+  <metadata>
+    <naam id="">βρύκω-1</naam>
+    <volgN>1</volgN>
+    <indexI>
+      <item>βρύκω</item>
+      <item>βρύχω</item>
+    </indexI>
+    <type>lem</type>
+    <alfaSl>βρύκω-1</alfaSl>
+    <woordS woordS="verb."/>
+    <status status="schoolreductie t1 gecontroleerd"/>
+    <migratedFrom>Migrated on 2014-12-01 14:55 from file 'BETA.1.18 v8.1.xml'</migratedFrom>
+    <migrateWarnings>Process::Bet<br/>
+<span class="space"/><span class="space"/>Piece didn't match GebrW or Cit rules, giving up on it. ^β. τοὺς ὀδόντας; &lt;i&gt;ook med.; met&lt;/i&gt; ἐπί + &lt;i&gt;acc.&lt;/i&gt; tegen iem$ </migrateWarnings>
+    <commentaar/>
+    <label/>
+  </metadata>
+  <lem>
+    <vorm>
+      <hoofdW>βρύκω <i>en</i> βρύχω, </hoofdW>
+      <morfI>voor med. <r>βρύχομαι</r> zie ook aldaar, voor perf. <r>βέβρυχα</r> zie <r>βρυχάομαι</r>.</morfI>
+    </vorm>
+    <bet>
+      <niv123>
+        <vertM>stukbijten, hard bijten in, hard kauwen op: </vertM>
+        <cit remove_this="1">
+          <citG>κρέα </citG>
+          <citNV>stukken vlees </citNV>
+          <verw>
+            <aut>Eur. </aut>
+            <werk>Cycl. </werk>
+            <plaats>358; </plaats>
+          </verw>
+        </cit>
+        <gebrW>overdr., </gebrW>
+        <gebrW>van zaken die lichamelijke pijn veroorzaken: </gebrW>
+        <vertM>verbijten.</vertM>
+      </niv123>
+      <niv123>
+        <vertM>knarsetanden, </vertM>
+        <gebrW>ook <r>β. τοὺς ὀδόντας</r>; </gebrW>
+        <gebrW>ook med.; </gebrW>
+        <gebrW remove_this="2">met <r><link target="">ἐπί</link></r> + acc. <r>tegen iem.</r> (als teken van woede) </gebrW>
+        <cit remove_this="1">
+          <verw>
+            <aut>NT </aut>
+            <werk>Act. Ap. </werk>
+            <plaats>7.54.</plaats>
+          </verw>
+        </cit>
+      </niv123>
+    </bet>
+  </lem>
+</contLem>

@@ -1,0 +1,48 @@
+<!DOCTYPE contLem SYSTEM "../../hulpdocumenten/dtd/lemma.dtd">
+<?xml-stylesheet type="text/xsl" href="../../hulpdocumenten/xslt/lemma-html.xslt"?>
+<?xml-stylesheet type="text/css" href="../../hulpdocumenten/css/lemma-blok.css"?>
+<contLem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../hulpdocumenten/xsd/lemma.xsd">
+  <metadata>
+    <naam id="">βροτός-1</naam>
+    <volgN>1</volgN>
+    <indexI>
+      <item>βροτός</item>
+    </indexI>
+    <type>lem</type>
+    <alfaSl>βροτός-1</alfaSl>
+    <woordS woordS="adj."/>
+    <status status="schoolreductie t1 gecontroleerd"/>
+    <migratedFrom>Migrated on 2014-12-01 14:55 from file 'BETA.1.18 v8.1.xml'</migratedFrom>
+    <migrateWarnings/>
+    <commentaar/>
+    <label/>
+  </metadata>
+  <lem>
+    <vorm>
+      <hoofdW>βροτός -όν </hoofdW>
+    </vorm>
+    <bet>
+      <vertM>sterfelijk; </vertM>
+      <gebrW>meestal subst. </gebrW>
+      <vertM>sterveling: </vertM>
+      <cit>
+        <citG>τίς … βροτῶν </citG>
+        <citNV>wie van de stervelingen </citNV>
+        <verw>
+          <aut>Soph. </aut>
+          <werk>OT </werk>
+          <plaats>437; </plaats>
+        </verw>
+      </cit>
+      <cit remove_this="1">
+        <citG>ἡμεῖς οἱ βροτοί </citG>
+        <citNV>wij stervelingen </citNV>
+        <verw>
+          <aut>Aristoph. </aut>
+          <werk>Eq. </werk>
+          <plaats>601.</plaats>
+        </verw>
+      </cit>
+    </bet>
+  </lem>
+</contLem>
