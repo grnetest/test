@@ -26,7 +26,11 @@
       <gebrW remove_this="2">eigenl. van de zee </gebrW>
       <cit remove_this="1">
         <citG>δίκην κολυμβητῆρος ἐς βυθὸν μολεῖν </citG>
+<<<<<<< HEAD
         <citNV>als een duiker naar de diepte te gaan TEST3</citNV>
+=======
+        <citNV>als een duiker naar de diepte te gaan </citNV>
+>>>>>>> parent of fab140a... TEST1
         <verw>
           <aut>Aeschl. </aut>
           <werk>Suppl. </werk>
