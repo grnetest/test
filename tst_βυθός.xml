@@ -1,0 +1,65 @@
+<!DOCTYPE contLem SYSTEM "../../hulpdocumenten/dtd/lemma.dtd">
+<?xml-stylesheet type="text/xsl" href="../../hulpdocumenten/xslt/lemma-html.xslt"?>
+<?xml-stylesheet type="text/css" href="../../hulpdocumenten/css/lemma-blok.css"?>
+<contLem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../hulpdocumenten/xsd/lemma.xsd">
+  <metadata>
+    <volgN>1</volgN>
+    <indexI>
+      <item>βυθός</item>
+    </indexI>
+    <type>lem</type>
+    <alfaSl>βυθός-1</alfaSl>
+    <woordS woordS="subst."/>
+    <status status="schoolreductie t1 gecontroleerd"/>
+    <migratedFrom>Migrated on 2014-12-01 14:55 from file 'BETA.1.18 v8.1.xml'</migratedFrom>
+    <migrateWarnings/>
+    <commentaar/>
+    <label/>
+  </metadata>
+  <lem>
+    <vorm>
+      <hoofdW>βυθός -οῦ, ὁ </hoofdW>
+    </vorm>
+    <bet>
+      <vertM>diepte; </vertM>
+      <gebrW remove_this="2">eigenl. van de zee </gebrW>
+      <cit remove_this="1">
+        <citG>δίκην κολυμβητῆρος ἐς βυθὸν μολεῖν </citG>
+        <citNV>als een duiker naar de diepte te gaan TEST3</citNV>
+        <verw>
+          <aut>Aeschl. </aut>
+          <werk>Suppl. </werk>
+          <plaats>408; </plaats>
+        </verw>
+      </cit>
+      <gebrW remove_this="2">alg. van andere dieptes </gebrW>
+      <cit remove_this="1">
+        <citG>ἐκ βυθοῦ … αἷμα </citG>
+        <citNV>bloed uit de diepte <toel>(d.w.z. uit een diepe wond)</toel> </citNV>
+        <verw>
+          <aut>Soph. </aut>
+          <werk>Ph. </werk>
+          <plaats>783; </plaats>
+        </verw>
+      </cit>
+      <gebrW remove_this="2">overdr. </gebrW>
+      <cit remove_this="1">
+        <citG>ἐν βυθῷ ἀτεχνίης </citG>
+        <citNV>in diepe onkunde </citNV>
+        <verw>
+          <aut>Hp. </aut>
+          <werk>Praec. </werk>
+          <plaats>7, </plaats>
+        </verw>
+      </cit>
+      <cit remove_this="1">
+        <citG>ἐν βυθῷ … ἡ ἀλήθεια </citG>
+        <citNV>de waarheid bevindt zich in de diepte </citNV>
+        <verw>
+          <aut>Democr. </aut>
+          <plaats>B 117.</plaats>
+        </verw>
+      </cit>
+    </bet>
+  </lem>
+</contLem>
