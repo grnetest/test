@@ -3,6 +3,7 @@
 <?xml-stylesheet type="text/css" href="../../hulpdocumenten/css/lemma-blok.css"?>
 <contLem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../hulpdocumenten/xsd/lemma.xsd">
   <metadata>
+    <naam id="">βυθός-1</naam>
     <volgN>1</volgN>
     <indexI>
       <item>βυθός</item>
